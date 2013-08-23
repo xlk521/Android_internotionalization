@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">国际化</string>
+    <string name="action_settings">设置</string>
+    <string name="word">精诚所至，金石为开。</string>
+    <string name="title1">复制</string>
+    <string name="title2">剪切</string>
+    <string name="title3">粘贴</string>
+
+</resources>
